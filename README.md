@@ -8,7 +8,7 @@ Grand Pause
 
 Shaders
 
-
+https://goldenkitsune.gumroad.com/l/apjpz
 # ✨ Shader Showcase — Golden Kitsune Creations
 
 Welcome to the shader collection by **Golden Kitsune Creations**, featuring custom visual effects designed for immersive 3D environments, fantasy worlds, science-fiction scenes, and VRChat world creation.
