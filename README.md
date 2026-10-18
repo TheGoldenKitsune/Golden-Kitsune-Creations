@@ -10,9 +10,10 @@ Shaders
 
 https://youtu.be/-0E_vNcwXSY?si=Cwbd1V3G5XTXVe_Y
 
+This display is also on gumroad btw
 
- This display is also on gumroad btw
- https://goldenkitsune.gumroad.com/l/apjpz
+ 
+https://goldenkitsune.gumroad.com/l/apjpz
 
 
 # ✨ Shader Showcase — Golden Kitsune Creations
